@@ -12,12 +12,11 @@ so that I can manage my time effectively
 ## Website 
 
 ### URL
-https://alamm01.github.io/codingquiz
+https://alamm01.github.io/taskscheduler/
 
 ### Screenshot
 ![Web Page Screenshot](./assets/image.png)
 
 
 ## Conclusion
-This website will be updated with more questions, stay tuned!
-sdfadf
+Enjoy the app! Appreciate any feedback.
