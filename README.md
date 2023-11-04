@@ -2,7 +2,7 @@
 A simple calendar application
 
 ## Description
-This is a simple calendar application that allows a user to save events for each hour of a typical working day (9am&ndash;5pm) by modifying starter code. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.
+This is a simple calendar application that allows a user to save events for each hour of a typical working day (9am&ndash;5pm). This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery. The information will be stored in the local storage.
 
 ### Purpose
 AS an employee with a busy schedule
@@ -15,7 +15,7 @@ so that I can manage my time effectively
 https://alamm01.github.io/codingquiz
 
 ### Screenshot
-![Web Page Screenshot](./assets/image/screen.png)
+![Web Page Screenshot](./assets/image.png)
 
 
 ## Conclusion
